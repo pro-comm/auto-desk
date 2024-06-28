@@ -11,10 +11,18 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #eff2f9;
 }
 
 #root{
   height: 100%;
+}
+
+.active{
+  color: #0b57d0;
+}
+.active-bg{
+  background-color:#f7f8fd;
 }
 
 .modal-container {
